@@ -649,6 +649,7 @@ header .icon-burger .line {
     padding-left: 8%;
     padding-right: 8%;
     padding-top: 1%;
+    padding-bottom: 2%;
 }
 .footer {
     display: flex;
